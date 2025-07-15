@@ -124,7 +124,7 @@ Este relatório consolida os resultados obtidos a partir de diferentes execuçõ
 | Standard   | 82,60%                   | 84,38%                    | 84,07%                        |
 
 
-![alt text](<images/Screenshot 2025-07-15 002045-1.png>)
+![alt text](<images/Screenshot 2025-07-15 002045.png>)
 ---
 ## Visão Geral dos Experimentos
 
