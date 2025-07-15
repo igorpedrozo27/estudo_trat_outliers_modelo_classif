@@ -70,17 +70,17 @@ O dataset utilizado contém informações financeiras e demográficas dos client
 O projeto inclui diversas visualizações para análise exploratória dos dados:
 - Correlações entre features
 
-![alt text](image.png)
+![alt text](images\image.png)
 - Análise de outliers
 
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](images\image-2.png)
+![alt text](images\image-3.png)
 - Importância das features
 
-![alt text](image-1.png)
+![alt text](images\image-1.png)
 - Performance dos modelos
 
-![alt text](image-4.png)
+![alt text](images\image-4.png)
 
 ## Métricas de Avaliação
 
@@ -124,7 +124,7 @@ Este relatório consolida os resultados obtidos a partir de diferentes execuçõ
 | Standard   | 82,60%                   | 84,38%                    | 84,07%                        |
 
 
-![alt text](<Screenshot 2025-07-15 002045-1.png>)
+![alt text](<images\Screenshot 2025-07-15 002045-1.png>)
 ---
 ## Visão Geral dos Experimentos
 
