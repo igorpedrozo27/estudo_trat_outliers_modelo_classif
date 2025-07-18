@@ -14,29 +14,15 @@ Uma característica única deste projeto é a análise comparativa do impacto do
  
 O objetivo é entender um pouco da influência dos outliers para este modelo e futuramente fazer uma análise exploratória mais robusta para comparar com os resultados aqui obtidos e finalmente, de maneira mais precisa, entender ainda melhor a influencia dos outliers na performance dos modelos de previsão.
 
-## Instruções de Instalação
-
-1. Clone este repositório:
+### Clone este repositório:
 ```bash
-git clone https://github.com/igorpedrozo27/previsao_score_credito_cliente.git
-cd previsao_score_credito_cliente
+git clone https://github.com/igorpedrozo27/estudo_trat_outliers_modelo_classif.git
+cd estudo_trat_outliers_modelo_classif
 ```
 
-2. Crie e ative um ambiente virtual (recomendado):
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-```
+## Organização do Projeto
 
-3. Instale as dependências necessárias:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-```
-
-## Como Executar o Projeto
-
-O projeto está organizado em notebooks Jupyter que podem ser executados sequencialmente:
+Os modelos executados estão em notebooks Jupyter que podem ser visualizados sequencialmente:
 
 1. Para análise com remoção de todos os outliers:
 ```bash
