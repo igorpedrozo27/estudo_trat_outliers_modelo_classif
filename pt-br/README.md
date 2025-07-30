@@ -8,11 +8,11 @@
 Este projeto implementa um pipeline completo de machine learning para prever o score de crédito de clientes bancários. O objetivo é desenvolver modelos preditivos precisos que possam auxiliar na avaliação de risco de crédito.
 
 Uma característica única deste projeto é a análise comparativa do impacto dos outliers na performance dos modelos. Foram desenvolvidas três abordagens paralelas:
-1. Modelo com remoção de todos os outliers (jupyter notebook prev_score_cliente.ipynb)
-2. Modelo mantendo todos os outliers (jupyter notebook prev_score_cliente_sem_tirar_outliers.ipynb)
-3. Modelo com analise exploratória simples (jupyter notebook prev_score_cliente_anal_expl_simp.ipynb)
+1. Modelo com remoção de todos os outliers (`prev_score_cliente.ipynb`)
+2. Modelo mantendo todos os outliers (`prev_score_cliente_sem_tirar_outliers.ipynb`)
+3. Modelo com analise exploratória simples (`prev_score_cliente_anal_expl_simp.ipynb`)
  
-O objetivo é entender um pouco da influência dos outliers para este modelo e futuramente fazer uma análise exploratória mais robusta para comparar com os resultados aqui obtidos e finalmente, de maneira mais precisa, entender ainda melhor a influencia dos outliers na performance dos modelos de previsão.
+O objetivo é entender um pouco da influência dos outliers para este modelo e futuramente fazer uma análise exploratória mais robusta para comparar com os resultados aqui obtidos e finalmente, de maneira mais precisa, entender ainda melhor a influencia dos outliers na performance dos modelos de previsão classificação.
 
 ### Clone este repositório:
 ```bash
@@ -56,17 +56,17 @@ O dataset utilizado contém informações financeiras e demográficas dos client
 O projeto inclui diversas visualizações para análise exploratória dos dados:
 - Correlações entre features
 
-![alt text](images/image.png)
+![alt text](imagespt/image.png)
 - Análise de outliers
 
-![alt text](images/image-2.png)
-![alt text](images/image-3.png)
+![alt text](imagespt/image-2.png)
+![alt text](imagespt/image-3.png)
 - Importância das features
 
-![alt text](images/image-1.png)
+![alt text](imagespt/image-1.png)
 - Performance dos modelos
 
-![alt text](images/image-4.png)
+![alt text](imagespt/image-4.png)
 
 ## Métricas de Avaliação
 
@@ -77,7 +77,6 @@ Os modelos foram avaliados utilizando:
 
 ## Modelos de Machine Learning
 
-### Algoritmos Implementados
 - Random Forest Classifier
 - KNN Classifier
 
@@ -110,7 +109,7 @@ Este relatório consolida os resultados obtidos a partir de diferentes execuçõ
 | Standard   | 82,60%                   | 84,38%                    | 84,07%                        |
 
 
-![alt text](<images/Screenshot 2025-07-15 002045.png>)
+![alt text](<imagespt/Screenshot 2025-07-15 002045.png>)
 ---
 ## Visão Geral dos Experimentos
 
